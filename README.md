@@ -8,6 +8,8 @@ cmake --build build
 
 可执行文件将会在bin文件夹下面生成
 
+<span style="color:red">注意：</span>修改conf.json配置文件中的账号和密码为你的，必须是导入source下的sql文件到数据库中测试方可进行
+
 ------
 
 学习收获：
